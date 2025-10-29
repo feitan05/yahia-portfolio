@@ -31,8 +31,8 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-    github: "https://github.com/feitan05",
-    linkedin: "https://www.linkedin.com/in/yahia-mohamed05/",
+    github: "https://github.com/yahia05",
+    linkedin: "https://www.linkedin.com/in/yahia5",
     gmail: "yahia.dev.01@gmail.com",
     gitlab: "https://gitlab.com/feitan05",
     // facebook: "https://www.facebook.com",
